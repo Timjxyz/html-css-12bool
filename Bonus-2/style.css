@@ -18,8 +18,10 @@ body{
     display: flex;
     background-color: #000;
     min-height: 200px;
-    border: 10px solid black;
-    border-radius: 10px 10px 10px 10px;
+    border: 13px solid red;
+    border-radius:17%;
+    overflow: hidden;
+    
     
 }
 .occhio{
