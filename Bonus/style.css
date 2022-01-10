@@ -14,6 +14,16 @@
     
 }
 
+.big-box{
+    min-height: 100px;
+    background-color: #006cfa;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 10px;
+    
+}
+
 .nested{
     min-height: 50px;
     background-color:#00e165;
@@ -28,4 +38,12 @@
 }
 .m-bottom-20{
     margin-bottom: 20px;
+}
+
+.align-middle{
+    align-self: center;
+}
+
+.align-bottom{
+    align-self: flex-end;
 }
