@@ -1,0 +1,24 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #006cfa;
+}
+
+.box{
+    min-height: 50px;
+    background-color: #006cfa;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 10px;
+    
+}
+
+.nested{
+    min-height: 50px;
+    background-color:#00e165;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #006cfa;
+    padding: 10px;
+}
