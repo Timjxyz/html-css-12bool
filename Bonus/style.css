@@ -47,3 +47,11 @@
 .align-bottom{
     align-self: flex-end;
 }
+
+.justify-ar{
+    justify-content: space-around;
+}
+
+.justify-be{
+    justify-content: space-between;
+}
